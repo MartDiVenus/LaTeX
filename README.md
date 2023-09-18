@@ -1,4 +1,3 @@
----
 isphysicalmath package
 
 Author: Mario Fantini, marfant7@gmail.com
@@ -6,7 +5,7 @@ Author: Mario Fantini, marfant7@gmail.com
 License: LaTeX Project Public License lppl
 
 Copyright (C) 2023 Mario Fantini
----
+
 
 
 # Overview
