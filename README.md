@@ -87,6 +87,12 @@ and services.
 
 Package home URL: https://github.com/MartDiVenus/LaTeX/tree/isphysicalmath
 
+This package is located at\
+   https://mirrors.ctan.org/macros/latex/contrib/isphysicalmath
+
+More information is at\
+   https://www.ctan.org/pkg/isphysicalmath
+
 
 # License 
 
