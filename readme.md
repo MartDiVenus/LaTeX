@@ -1,3 +1,3 @@
 # Intro
 
-My packages for LaTeX's art.
+My packages for LaTeX's world.
